@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
                 margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                 child: ListTile(
                   title: Text(
-                    '+886 84 298836',
+                    '+886 123 456 789',
                     style: TextStyle(
                         color: Colors.teal.shade900,
                         fontFamily: 'Source Sans Pro',
@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                 margin: EdgeInsets.symmetric(vertical: 10, horizontal: 25),
                 child: ListTile(
                   title: Text(
-                    'a01204000@gmail.com',
+                    'flutter@love.com',
                     style: TextStyle(
                       fontFamily: 'SourceSansPro',
                       fontSize: 20.0,
